@@ -10,6 +10,10 @@ namespace EdmxMerge
 	{
 		static void Main(string[] args)
 		{
+
+
+
+
 		}
 	}
 }
